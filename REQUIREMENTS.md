@@ -1,10 +1,10 @@
 ## Prerequisites: ##
 * Any linux distrbutions, preferably Ubuntu 18.04.5 LTS (Bionic Beaver)
-* Python3
+* Python3.7
 * Version 8.19.10.30 of [angr](https://docs.angr.io/introductory-errata/install)
 * Pre-installation of magic:
 ```
-sudo apt-get install python3-magic
+pip install python-magic
 ```
 * Pre-installation of zip  
 
